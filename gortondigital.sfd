@@ -43,7 +43,7 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2CapHeight: 2520
-OS2XHeight: 1680
+OS2XHeight: 1430
 OS2Vendor: 'PfEd'
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1

@@ -6,6 +6,7 @@ mainFontName = "GortonDigital"
 familyName = "Gorton Digital"
 strokeNames = ["Light", "Regular", "Medium", "Heavy"]
 weightNames = [300, 400, 500, 700]
+xHeight = 1434  # Based on 3524 EmSize
 
 strokeIndex = 0
 while (strokeIndex < SizeOf(strokeWidths))
@@ -13,6 +14,7 @@ while (strokeIndex < SizeOf(strokeWidths))
 	strokeName = strokeNames[strokeIndex]
 	SetFontNames(mainFontName + strokeName, familyName, familyName + " " + strokeName, strokeName)
 	SetOS2Value("Weight", weightNames[strokeIndex])
+	SetOS2Value("XHeight", xHeight)
 	SelectWorthOutputting()
 	SelectFewerSingletons(" ", 0uA0)
 	UnlinkReference()
