@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1506406980
-ModificationTime: 1755801085
+ModificationTime: 1755801163
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -840,12 +840,16 @@ Width: 1200
 VWidth: 0
 Flags: HW
 LayerCount: 2
-Fore
+Back
 SplineSet
 0 1339 m 29
  1200 1339 l 1053
 EndSplineSet
-Validated: 3
+Fore
+SplineSet
+0 1239 m 29
+ 1200 1239 l 1053
+EndSplineSet
 EndChar
 
 StartChar: colon
@@ -1153,7 +1157,7 @@ StartChar: exclam
 Encoding: 33 33 46
 Width: 140
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Back
 SplineSet
@@ -1531,14 +1535,18 @@ StartChar: emdash
 Encoding: 151 8212 65
 Width: 1961
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 2
-Fore
+Back
 SplineSet
 0 1338 m 25
  1961 1338 l 1053
 EndSplineSet
-Validated: 3
+Fore
+SplineSet
+0 1238 m 29
+ 1961 1238 l 1053
+EndSplineSet
 EndChar
 
 StartChar: endash
@@ -1547,12 +1555,16 @@ Width: 1630
 VWidth: 0
 Flags: HW
 LayerCount: 2
-Fore
+Back
 SplineSet
 0 1338 m 25
  1630 1338 l 1049
 EndSplineSet
-Validated: 3
+Fore
+SplineSet
+0 1238 m 29
+ 1630 1238 l 1053
+EndSplineSet
 EndChar
 
 StartChar: bar
