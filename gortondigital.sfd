@@ -3,7 +3,7 @@ FontName: GortonDigitalModified
 FullName: Gorton Digital Modified
 FamilyName: Gorton Digital Modified
 Weight: Regular
-Copyright: This digital file is copyright 2017 R. S. Bartgis. It was updated with some additional glyphs by Michael Fehrenbach in the summer of 2025.
+Copyright: This digital file is copyright 2017 R. S. Bartgis. It was updated with some additional glyphs/fixes by Michael Fehrenbach in the summer of 2025.
 Version: 2025 08 21
 StrokeWidth: 210
 ItalicAngle: -15
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1506406980
-ModificationTime: 1755801163
+ModificationTime: 1755801234
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
