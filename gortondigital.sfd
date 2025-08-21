@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1506406980
-ModificationTime: 1755803598
+ModificationTime: 1755803902
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -1557,9 +1557,9 @@ EndChar
 
 StartChar: emdash
 Encoding: 151 8212 65
-Width: 1961
+Width: 2161
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Back
 SplineSet
@@ -1568,8 +1568,8 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-0 1238 m 29
- 1961 1238 l 1053
+0 1238 m 25
+ 2161 1238 l 1049
 EndSplineSet
 EndChar
 
@@ -2662,7 +2662,7 @@ StartChar: udieresis
 Encoding: 252 252 117
 Width: 944
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
