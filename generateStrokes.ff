@@ -6,7 +6,7 @@ mainFontName = "GortonDigitalModified"
 familyName = "Gorton Digital Modified"
 strokeNames = ["Light", "Regular", "Medium", "Heavy"]
 weightNames = [300, 400, 500, 700]
-xHeight = 1434  # Based on 3524 EmSize
+xHeight = 1435  # Based on 3524 EmSize
 
 strokeIndex = 0
 while (strokeIndex < SizeOf(strokeWidths))

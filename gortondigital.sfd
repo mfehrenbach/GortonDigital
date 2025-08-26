@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1506406980
-ModificationTime: 1756249335
+ModificationTime: 1756250102
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -58,6 +58,12 @@ WinInfo: 16 16 12
 BeginPrivate: 0
 EndPrivate
 Grid
+-3524 1516 m 0
+ 7048 1516 l 1024
+  Named: "Higher X"
+-3524 1435 m 0
+ 7048 1435 l 1024
+  Named: "Lower X"
 846.349609375 4282 m 0
  846.349609375 -2766 l 1024
 882.349609375 4282 m 0
@@ -67,10 +73,6 @@ Grid
   Named: "Half"
 471 4282 m 0
  471 -2766 l 1024
--3524 1434 m 0
- 7048 1434 l 1024
-68.5001220703 4282 m 0
- 68.5001220703 -2766 l 1024
 EndSplineSet
 TeXData: 1 0 681878 599186 299593 199728 0 -412297 199728 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Origin"""  "asdf""" 
@@ -621,7 +623,7 @@ StartChar: Q
 Encoding: 81 81 26
 Width: 1813
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Back
 SplineSet
@@ -2023,7 +2025,7 @@ SplineSet
  0 615 232.222252113 738.354286469 522 816 c 0
  705.525906995 865.175618569 945 866 945 866 c 1
  945 280 l 1
- 945 28 1055 -24 1115 -24 c 7
+ 945 28 1055 -24 1115 -24 c 3
  1182 -24 1260 -12 1260 -12 c 1025
 EndSplineSet
 EndChar
@@ -2281,16 +2283,16 @@ StartChar: u
 Encoding: 117 117 97
 Width: 944
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
 944 0 m 1
- 944 1435 l 1
+ 944 1435 l 5
  943 448 l 17
  943 187 733 -24 472 -24 c 1
  211 -24 0 187 0 448 c 3
- 0 879 0 1435 0 1435 c 1024
+ 0 879 0 1435 0 1435 c 1028
 EndSplineSet
 EndChar
 
@@ -2335,11 +2337,11 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-0 0 m 29
- 1004 1435 l 5
- 518 739 l 29
- 1034 0 l 5
- 31 1435 l 1053
+0 0 m 25
+ 1004 1435 l 1
+ 518 739 l 25
+ 1034 0 l 1
+ 31 1435 l 1049
 EndSplineSet
 EndChar
 
