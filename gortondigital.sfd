@@ -59,10 +59,6 @@ WinInfo: 0 16 12
 BeginPrivate: 0
 EndPrivate
 Grid
--3524 2808 m 0
- 7048 2808 l 1024
-484 4282 m 0
- 484 -2766 l 1024
 -3524 1516 m 0
  7048 1516 l 1024
   Named: "Higher X"
@@ -74,7 +70,7 @@ Grid
   Named: "Half"
 EndSplineSet
 TeXData: 1 0 681878 599186 299593 199728 0 -412297 199728 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-AnchorClass2: "Origin"""  "asdf""" 
+AnchorClass2: "Origin"""  "asdf"""
 BeginChars: 1114112 134
 
 StartChar: A
@@ -103,6 +99,7 @@ SplineSet
  282 840 l 4
  0 0 l 4
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: B
