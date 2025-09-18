@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1506406980
-ModificationTime: 1756786338
+ModificationTime: 1758227820
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -49,13 +49,12 @@ MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033
 Encoding: UnicodeFull
-Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 16 12
+WinInfo: 0 30 12
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -71,7 +70,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 681878 599186 299593 199728 0 -412297 199728 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Origin"""  "asdf""" 
-BeginChars: 1114112 132
+BeginChars: 1114112 134
 
 StartChar: A
 Encoding: 65 65 0
@@ -91,15 +90,14 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-0 0 m 4
- 843 2520 l 4
+0 0 m 0
+ 843 2520 l 0
  948 2520 l 4
- 1791 0 l 4
- 1509 840 l 4
- 282 840 l 4
- 0 0 l 4
+ 1791 0 l 0
+ 1509 840 l 0
+ 282 840 l 0
+ 0 0 l 0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: B
@@ -2992,7 +2990,7 @@ StartChar: uni2913
 Encoding: 10515 10515 130
 Width: 2520
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3017,6 +3015,26 @@ SplineSet
 0 1260 m 25
  1300 1260 l 1049
 EndSplineSet
+EndChar
+
+StartChar: Aring
+Encoding: 197 197 132
+Width: 1791
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Fore
+Refer: 0 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: aring
+Encoding: 229 229 133
+Width: 1155
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 86 97 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
